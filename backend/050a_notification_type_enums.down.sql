@@ -1,4 +1,0 @@
--- TYPE: schema
--- Note: enum values added with ALTER TYPE ADD VALUE cannot be removed in Postgres.
--- The down migration intentionally leaves the enum values in place; they are inert
--- once unused.
